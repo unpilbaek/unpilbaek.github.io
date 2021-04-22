@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unpil Baek</title>
+    <link>https://unpilbaek.github.io/</link>
+      <atom:link href="https://unpilbaek.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Unpil Baek</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Unpil Baek</copyright><lastBuildDate>Thu, 22 Apr 2021 14:23:34 -0700</lastBuildDate>
+    <image>
+      <url>https://unpilbaek.github.io/media/icon_hu73de0d5b35fe196bc43c82f67760ad22_166565_512x512_fill_lanczos_center_2.png</url>
+      <title>Unpil Baek</title>
+      <link>https://unpilbaek.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Create Website</title>
+      <link>https://unpilbaek.github.io/resources-posts/create-website/</link>
+      <pubDate>Thu, 22 Apr 2021 14:23:34 -0700</pubDate>
+      <guid>https://unpilbaek.github.io/resources-posts/create-website/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Mattheo Courthoud&amp;rsquo;s awesome guide &lt;a href=&#34;https://matteocourthoud.github.io/post/website/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Floating Table of Contents&lt;/li&gt;
+&lt;li&gt;Hugo Academic documentation (Wowchemy) &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Tools</title>
+      <link>https://unpilbaek.github.io/resources-posts/research-tools/</link>
+      <pubDate>Thu, 22 Apr 2021 14:23:26 -0700</pubDate>
+      <guid>https://unpilbaek.github.io/resources-posts/research-tools/</guid>
+      <description>&lt;h2 id=&#34;research-tools&#34;&gt;Research Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mendeley, Zotero (citation manager)&lt;/li&gt;
+&lt;li&gt;Overleaf (for LaTeX with cloud service)&lt;/li&gt;
+&lt;li&gt;Paperpile (for easy bibliography generation)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;coding-tools&#34;&gt;Coding Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;PyCharm&lt;/li&gt;
+&lt;li&gt;Learn X in Y minutes&lt;/li&gt;
+&lt;li&gt;GitHub&lt;/li&gt;
+&lt;li&gt;C++ Boost libraries&lt;/li&gt;
+&lt;li&gt;Machine learning libraries&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;quantum-chemistry&#34;&gt;Quantum Chemistry&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Psi4&lt;/li&gt;
+&lt;li&gt;PySCF&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;productivity-tools&#34;&gt;Productivity Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Focusmate&lt;/li&gt;
+&lt;li&gt;SelfControl (for Mac)&lt;/li&gt;
+&lt;li&gt;Things 3&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reading Literature</title>
+      <link>https://unpilbaek.github.io/resources-posts/reading-literature/</link>
+      <pubDate>Thu, 22 Apr 2021 14:23:13 -0700</pubDate>
+      <guid>https://unpilbaek.github.io/resources-posts/reading-literature/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This is an incomplete post.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;great-free-ebooks&#34;&gt;Great free eBooks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://standardebooks.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Standard eBooks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gutenberg.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Gutenberg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://archive.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Internet Archive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ccel.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christian Classics Ethereal Library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.earlymoderntexts.com/texts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Early Modern Texts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reading-guides&#34;&gt;Reading Guides&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sparknotes.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SparkNotes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.litcharts.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LitCharts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guide to Shakespeare (TBA)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chaucer.fas.harvard.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard&amp;rsquo;s Geoffrey Chaucer Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bobforrestweb.co.uk/The_Rubaiyat/verse_by_verse_notes.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verse Guide to &lt;em&gt;The Rubaiyat&lt;/em&gt; (1859 edition)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ulyssesguide.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joyce&amp;rsquo;s Ulysses Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fweet.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Finnegans Wake Extensible Elucidation Treasury (FWEET)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikibooks.org/wiki/Lolita&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wiktionary Vocabulary Guide to Nabokov&amp;rsquo;s &lt;em&gt;Lolita&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wiktionary.org/wiki/Appendix:A_Clockwork_Orange&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wiktionary Nadsat Guide to Burgess&amp;rsquo;s &lt;em&gt;A Clockwork Orange&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plato.stanford.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stanford Encyclopedia of Philosophy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reading-lists&#34;&gt;Reading Lists&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The Great Conversation (How to Read a Book)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;procrastintion-alert&#34;&gt;Procrastintion Alert&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://xkcd.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;xkcd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://existentialcomics.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Existential Comics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learn Languages</title>
+      <link>https://unpilbaek.github.io/resources-posts/learn-languages/</link>
+      <pubDate>Thu, 22 Apr 2021 14:23:05 -0700</pubDate>
+      <guid>https://unpilbaek.github.io/resources-posts/learn-languages/</guid>
+      <description>&lt;p&gt;This is an incomplete post.&lt;/p&gt;
+&lt;h2 id=&#34;general-resources&#34;&gt;General Resources&lt;/h2&gt;
+&lt;h3 id=&#34;learning-applications&#34;&gt;Learning applications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.duolingo.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Duolingo&lt;/a&gt; and its cousin &lt;a href=&#34;https://duome.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Duome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.italki.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;italki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apps.ankiweb.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anki&lt;/a&gt; and its &lt;a href=&#34;https://ankiweb.net/shared/decks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shared decks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forvo.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forvo&lt;/a&gt; The pronunciation dictionary.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.keybr.com/#!game&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn to Type Faster&lt;/a&gt; Helpful for learning
+keyboards in different languages and layouts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;dictionaries&#34;&gt;Dictionaries&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://conjugator.reverso.net/conjugation-french.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reverso Conjugation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wiktionary.org/wiki/Wiktionary:Main_Page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wiktionary&lt;/a&gt; Surprisingly
+good entries with etymology and fully declined and conjugated forms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;writing-systems&#34;&gt;Writing systems&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://omniglot.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Omniglot&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;pronunciation--phonetics&#34;&gt;Pronunciation &amp;amp; Phonetics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCQAUWk_yGz7bk1181DrijNw/playlists&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fluent Forever Pronunciation Guide @ YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ipachart.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Interactive IPA Chart&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;japanese&#34;&gt;Japanese&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.imabi.net/tableofcontents.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IMABI 文法&lt;/a&gt; One of the &lt;em&gt;most&lt;/em&gt;
+comprehensive, freely-available, Japanese grammar guide I&amp;rsquo;ve seen so far.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;authentic-materials&#34;&gt;Authentic materials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.aozora.gr.jp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;青空文庫&lt;/a&gt; Somewhat like Gutenberg for Japanese.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;spanish-castellano&#34;&gt;Spanish (Castellano)&lt;/h2&gt;
+&lt;h3 id=&#34;learning-tools&#34;&gt;Learning tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.spanishdict.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Span¡shD!ct&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://studyspanish.com/grammar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;StudySpanish Grammar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ankidecks&#34;&gt;AnkiDecks&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ankiweb.net/shared/info/241428882&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spanish Top 5000 Vocabulary&lt;/a&gt; The
+only caveat is that there are some NSFW images. Some images are not directly
+related to the words either. Otherwise, this is a very comprehensive, frequency-based deck.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ankiweb.net/shared/info/638411848&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ultimate Spanish Conjugation&lt;/a&gt; A
+one-of-a-kind deck.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;authentic-materials-1&#34;&gt;Authentic materials&lt;/h3&gt;
+&lt;h4 id=&#34;newspaper&#34;&gt;Newspaper&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://elpais.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EL PAÍS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;tv-dramas&#34;&gt;TV Dramas&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.learner.org/series/destinos-an-introduction-to-spanish/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Destinos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://destinostelenovela.wordpress.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Destinos Resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLD2C410C53A35CDA1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;extr@ Spanish&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCISOAs1aBYViGKehML6P2mQ/featured&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spaniards in London&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLct5cP3w8TDI1tasUOZ_KALfYRosshgNd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;El Chavo del Ocho&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;classical-latin-and-attic-greek&#34;&gt;Classical Latin and Attic Greek&lt;/h2&gt;
+&lt;p&gt;Good dictionaries&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://logeion.uchicago.edu/%ce%bb%ce%bf%ce%b3%ce%b5%e1%bf%96%ce%bf%ce%bd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ΛΟΓΕΙΟΝ&lt;/a&gt; Shows the frequency of each
+lexeme.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wiktionary.org/wiki/Wiktionary:Main_Page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wiktionary&lt;/a&gt; Surprisingly
+good entries with etymology and all declined and conjugated forms.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLU1WuLg45SiyrXahjvFahDuA060P487pV&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lingua Latina per se Illustrata, Pars I
+Audiovisuals&lt;/a&gt;
+Delightful set of recordings by
+&lt;a href=&#34;https://www.youtube.com/c/ScorpioMartianus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ScorpioMartianus&lt;/a&gt; on YouTube.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://alatius.com/macronizer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Latin Macronizer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dcc.dickinson.edu/vocab/core-vocabulary&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Core Vocabulary by Dickenson College
+Commentaries&lt;/a&gt;. Includes 1,000
+most common Latin lexemes and 500 Attic Greek lexemes. You can also sort the
+words by their parts of speech. Available in multiple languages.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.perseus.tufts.edu/hopper/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perseus Digital Library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.loebclassics.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Loeb Classical Library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://yalebooks.yale.edu/book/9780300194951/learn-read-latin-second-edition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Answer Keys to Learn to Read Latin (Second Edition)&lt;/a&gt;
+For self-study, a reliable answer key is a godsend. Yale University Press
+generously make their answer keys available to such students.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://yalebooks.yale.edu/book/9780300115901/learn-read-greek&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Answer Keys to Learn to Read Greek&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;my-anki-setup-add-ons&#34;&gt;My Anki setup (add-ons)&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantum Computing</title>
+      <link>https://unpilbaek.github.io/resources-posts/quantum-computing/</link>
+      <pubDate>Thu, 22 Apr 2021 13:36:54 -0700</pubDate>
+      <guid>https://unpilbaek.github.io/resources-posts/quantum-computing/</guid>
+      <description>&lt;p&gt;Content ideas&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introductory resources to quantum computing&lt;/li&gt;
+&lt;li&gt;Review articles for subareas (quantum chemistry, error correction, tensor
+network, etc.)&lt;/li&gt;
+&lt;li&gt;Conferences and paperfeeds to subscribe to&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scirate.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SciRate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://unpilbaek.github.io/personal/</link>
+      <pubDate>Thu, 22 Apr 2021 13:05:37 -0700</pubDate>
+      <guid>https://unpilbaek.github.io/personal/</guid>
+      <description>&lt;p&gt;&lt;em&gt;CAVEAT.&lt;/em&gt; This is a draft post. The contents shown here shall be developed fully
+soon.&lt;/p&gt;
+&lt;h2 id=&#34;bbooksb&#34;&gt;&lt;b&gt;Books&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;I regularly update my reading status at
+&lt;a href=&#34;https://www.goodreads.com/user/show/99643130-unpil-baek&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Goodreads&lt;/a&gt;.
+&lt;a href=&#34;https://www.goodreads.com/user/99643130/favorite_authors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt; is the list of
+my favorite authors. If you ask me the books that influenced me the most so far,
+they would be The Bible, Plato&amp;rsquo;s &lt;em&gt;Republic&lt;/em&gt;, Augustine&amp;rsquo;s &lt;em&gt;Confessions&lt;/em&gt;, and
+Frankl&amp;rsquo;s &lt;em&gt;Man&amp;rsquo;s Search for Meaning&lt;/em&gt;.  I also write
+&lt;a href=&#34;https://www.goodreads.com/review/list/99643130-unpil-baek?order=d&amp;amp;sort=review&amp;amp;view=reviews&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;reviews&lt;/a&gt;
+from time to time. Feel free to follow me!&lt;/p&gt;
+&lt;h2 id=&#34;bfilmsb&#34;&gt;&lt;b&gt;Films&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;I regularly update films I&amp;rsquo;ve watched at
+&lt;a href=&#34;https://letterboxd.com/unpilbaek/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Letterboxd&lt;/a&gt;. Feel free to follow me!  If you
+ask me my top three favorite directors, they would be Stanley Kubrick, Ingmar
+Bergman, and Akira Kurosawa. For great TV miniseries, I recommend &amp;ldquo;Fanny and
+Alexander&amp;rdquo; (Bergman, 1983) and &amp;ldquo;Dekalog&amp;rdquo; (Kieślowski, 1988). (&amp;ldquo;Berlin
+Alexanderplatz&amp;rdquo; (Fassbinder, 1980) is on my to-watch list.)&lt;/p&gt;
+&lt;h2 id=&#34;bquotesb&#34;&gt;&lt;b&gt;Quotes&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Zorba,&amp;rdquo; I shouted, &amp;ldquo;come, teach me to dance!&amp;rdquo; Zorba leaped to his feet, his
+face glowing. &amp;ldquo;Dance, Boss?&amp;rdquo; he asked. &amp;ldquo;Dance? Come!&amp;rdquo; (&lt;em&gt;Zorba the Greek&lt;/em&gt;, Nikos
+Kazantzakis; tr. Peter Bien) A memorable associated &lt;a href=&#34;https://www.youtube.com/watch?v=2AzpHvLWFUM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video
+clip&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;There is a time for everything, and a season for every activity under heavens:
+&amp;hellip;  (Ecclesiastes 3:1-8, NIV). Full verse reference
+&lt;a href=&#34;https://www.biblegateway.com/passage/?search=Ecclesiastes%203&amp;amp;version=NIV&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.
+There is a
+&lt;a href=&#34;https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R?si=05eed7593661419e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;song&lt;/a&gt;
+inspired by these verses.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Error-resilient Tensor Network-based Ansatz for a Noisy Quantum Computer</title>
+      <link>https://unpilbaek.github.io/talk/error-resilient-tensor-network-based-ansatz-for-a-noisy-quantum-computer/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://unpilbaek.github.io/talk/error-resilient-tensor-network-based-ansatz-for-a-noisy-quantum-computer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Non-Orthogonal Variational Quantum Eigensolver</title>
+      <link>https://unpilbaek.github.io/publication/2019-novqe/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://unpilbaek.github.io/publication/2019-novqe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An FPGA-based quantum feedback system for real-time qubit control</title>
+      <link>https://unpilbaek.github.io/talk/an-fpga-based-quantum-feedback-system-for-real-time-qubit-control/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://unpilbaek.github.io/talk/an-fpga-based-quantum-feedback-system-for-real-time-qubit-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://unpilbaek.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://unpilbaek.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

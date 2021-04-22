@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Unpil Baek</title>
+    <link>https://unpilbaek.github.io/post/</link>
+      <atom:link href="https://unpilbaek.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Unpil Baek</copyright>
+    <image>
+      <url>https://unpilbaek.github.io/media/icon_hu73de0d5b35fe196bc43c82f67760ad22_166565_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://unpilbaek.github.io/post/</link>
+    </image>
+    
+  </channel>
+</rss>

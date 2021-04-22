@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>error-mitigation | Unpil Baek</title>
+    <link>https://unpilbaek.github.io/tag/error-mitigation/</link>
+      <atom:link href="https://unpilbaek.github.io/tag/error-mitigation/index.xml" rel="self" type="application/rss+xml" />
+    <description>error-mitigation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Unpil Baek</copyright><lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://unpilbaek.github.io/media/icon_hu73de0d5b35fe196bc43c82f67760ad22_166565_512x512_fill_lanczos_center_2.png</url>
+      <title>error-mitigation</title>
+      <link>https://unpilbaek.github.io/tag/error-mitigation/</link>
+    </image>
+    
+    <item>
+      <title>Error-resilient Tensor Network-based Ansatz for a Noisy Quantum Computer</title>
+      <link>https://unpilbaek.github.io/talk/error-resilient-tensor-network-based-ansatz-for-a-noisy-quantum-computer/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://unpilbaek.github.io/talk/error-resilient-tensor-network-based-ansatz-for-a-noisy-quantum-computer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

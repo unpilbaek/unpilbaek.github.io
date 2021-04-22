@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quantum-computing | Unpil Baek</title>
+    <link>https://unpilbaek.github.io/tag/quantum-computing/</link>
+      <atom:link href="https://unpilbaek.github.io/tag/quantum-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>quantum-computing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Unpil Baek</copyright><lastBuildDate>Thu, 22 Apr 2021 13:36:54 -0700</lastBuildDate>
+    <image>
+      <url>https://unpilbaek.github.io/media/icon_hu73de0d5b35fe196bc43c82f67760ad22_166565_512x512_fill_lanczos_center_2.png</url>
+      <title>quantum-computing</title>
+      <link>https://unpilbaek.github.io/tag/quantum-computing/</link>
+    </image>
+    
+    <item>
+      <title>Quantum Computing</title>
+      <link>https://unpilbaek.github.io/resources-posts/quantum-computing/</link>
+      <pubDate>Thu, 22 Apr 2021 13:36:54 -0700</pubDate>
+      <guid>https://unpilbaek.github.io/resources-posts/quantum-computing/</guid>
+      <description>&lt;p&gt;Content ideas&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introductory resources to quantum computing&lt;/li&gt;
+&lt;li&gt;Review articles for subareas (quantum chemistry, error correction, tensor
+network, etc.)&lt;/li&gt;
+&lt;li&gt;Conferences and paperfeeds to subscribe to&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scirate.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SciRate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
