@@ -1,0 +1,19 @@
+---
+title: "Music"
+---
+
+Content to be added!
+
+::: {layout-ncol=2}
+
+<!--![](gandalf_image_4.jpg)-->
+
+:::
+
+<!--
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+-->

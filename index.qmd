@@ -1,29 +1,35 @@
 ---
+title: "Unpil Baek"
+# description: "Cartographer on the Edge"
 about:
-  template: jolla
+  template: trestles
+  image-shape: round
+  image-width: 20em
   id: about-block
   image: "img/my_image.jpg"
   links:
     #- icon: twitter
     #  text: Twitter
     #  href: https://twitter.com/MarvinSchmittML
-    - icon: github
-      text: Github
-      href: https://github.com/unpilbaek
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/unpilbaek
+    - icon: github
+      text: Github
+      href: https://github.com/unpilbaek
     #- icon: envelope
     #  text: Email
     #  href: "mailto:mail.marvinschmitt@gmail.com"  
 ---
 
 ::: {#about-block}
+# Oi, mundo!
+As you see, the website is still under construction. Exciting contents to be added!
 :::
 
-# Welcome to my website!
+# More contents to follow...
 
-Oi, mundo!
+
 <!--Please feel free to [contact me](mailto:mail.marvinschmitt@gmail.com) if you have any questions or would like to discuss potential projects.-->
 
 <!--
