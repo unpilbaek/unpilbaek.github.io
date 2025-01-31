@@ -19,4 +19,3 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a quantum computing researcher with expertise in designing quantum algorithms for simulating physical and chemical systems. My work bridges theoretical and applied aspects of quantum computing, exploring potential advancements in computational methods for scientific discovery. Beyond my primary research, I am interested in interdisciplinary approaches that connect computation with creative fields, including music and visualization. Through my work, I aim to expand the ways in which complex scientific concepts can be understood and explored.
-
