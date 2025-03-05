@@ -11,6 +11,7 @@ description: <!--This is a description of the page. You can modify it in '_pages
 toc:
   sidebar: left
 ---
+
 <!--
 <script>
   window.location.href = "/assets/pdf/cv.pdf"; // redirects to the pdf file
