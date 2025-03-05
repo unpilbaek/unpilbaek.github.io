@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Hello world! :wave:
+Hello world! 세상이여 안녕! :wave:
