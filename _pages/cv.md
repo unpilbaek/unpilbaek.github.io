@@ -1,7 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-redirect_to: /assets/pdf/cv.pdf
+<!--redirect_from: "/cv/"
+redirect_to: /assets/pdf/cv.pdf-->
 title: cv
 nav: true
 nav_order: 5
@@ -10,3 +11,8 @@ description: <!--This is a description of the page. You can modify it in '_pages
 toc:
   sidebar: left
 ---
+<!--
+<script>
+  window.location.href = "/assets/pdf/cv.pdf"; // redirects to the pdf file
+</script>
+-->
