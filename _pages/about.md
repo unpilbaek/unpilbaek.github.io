@@ -21,4 +21,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a quantum computing researcher with expertise in designing quantum algorithms for simulating physical and chemical systems. My work bridges theoretical and applied aspects of quantum computing, exploring potential advancements in computational methods for scientific discovery. Beyond my primary research, I am interested in interdisciplinary approaches that connect computation with creative fields, including music and visualization. Through my work, I aim to expand the ways in which complex scientific concepts can be understood and explored.
+I am a quantum computing researcher with expertise in designing quantum algorithms for simulating physical and chemical systems. My work focuses on developing near-term quantum methods for electronic structure simulations, bridging algorithm design with physical/chemical insight to advance scientific computing on emerging quantum hardware. I'm also expanding into machine learning and AI to deepen my algorithmic intuition and explore new computational inquiries across classical and quantum domains.
+
+Alongside my scientific path, I’m also an active jazz pianist, arranger, and composer. My musical world spans classical, jazz, and global traditions, grounded in improvisation and creative experimentation. Whether through performance or composition, I aim to offer vivid, emotionally resonant experiences that sit at the intersection of structure and spontaneity.
+
+By embracing both technical depth and artistic range, I thrive in spaces where disciplines meet—designing algorithms, telling stories, and shaping ideas into tangible impact.
