@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Improviser and Builder of Dialogue<!--<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.-->
+subtitle: <b>Improviser and Builder of Dialogue</b><!--<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.-->
 
 profile:
   align: right
