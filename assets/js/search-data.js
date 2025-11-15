@@ -45,7 +45,7 @@ ninja.data = [{
           section: "News",},{id: "news-oakland-in-c-in-honor-of-terry-riley-s-90th-birthday-wyldflowr-arts-oakland-7-30-pm",
           title: 'Oakland ‘In C’ in honor of Terry Riley’s 90th Birthday! Wyldflowr Arts, Oakland...',
           description: "",
-          section: "News",},{id: "news-sameer-gupta-trio-ft-siddique-ahmed-middle-eastern-ragas-meyhouse-jazz-palo-alto-6-30-pm-9-30-pm",
+          section: "News",},{id: "news-sameer-gupta-trio-ft-siddique-ahmed-middle-eastern-ragas-meyhouse-jazz-palo-alto-6-30-pm-8-30-pm",
           title: 'Sameer Gupta Trio ft. Siddique Ahmed — Middle Eastern Ragas Meyhouse Jazz, Palo...',
           description: "",
           section: "News",},{
