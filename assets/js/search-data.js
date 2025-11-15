@@ -30,7 +30,25 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{
+        },{id: "news-vitamin-em-returns-to-piedmont-piedmont-center-for-the-arts-piedmont-7-30-pm",
+          title: 'Vitamin Em Returns to Piedmont! Piedmont Center for the Arts, Piedmont — 7:30...',
+          description: "",
+          section: "News",},{id: "news-vitamin-em-at-pacifica-performances-mildred-owens-concert-hall-pacifica-7-30-pm",
+          title: 'Vitamin Em at Pacifica Performances Mildred Owens Concert Hall, Pacifica — 7:30 PM...',
+          description: "",
+          section: "News",},{id: "news-ramya-shankar-wyldflowr-arts-oakland-7-30-pm",
+          title: 'Ramya Shankar  Wyldflowr Arts, Oakland — 7:30 PM',
+          description: "",
+          section: "News",},{id: "news-vitamin-em-at-ocean-view-drive-chamber-music-ocean-view-drive-chamber-music-oakland-7-00-pm",
+          title: 'Vitamin Em at Ocean View Drive Chamber Music Ocean View Drive Chamber Music,...',
+          description: "",
+          section: "News",},{id: "news-oakland-in-c-in-honor-of-terry-riley-s-90th-birthday-wyldflowr-arts-oakland-7-30-pm",
+          title: 'Oakland ‘In C’ in honor of Terry Riley’s 90th Birthday! Wyldflowr Arts, Oakland...',
+          description: "",
+          section: "News",},{id: "news-sameer-gupta-trio-ft-siddique-ahmed-middle-eastern-ragas-meyhouse-jazz-palo-alto-6-30-pm-9-30-pm",
+          title: 'Sameer Gupta Trio ft. Siddique Ahmed — Middle Eastern Ragas Meyhouse Jazz, Palo...',
+          description: "",
+          section: "News",},{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
