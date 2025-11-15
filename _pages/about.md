@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Improviser and Builder of Dialogue</b><!--<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.-->
+subtitle: <b>Improviser and Builder of Dialogue</b><br>Research Scientist (ML/AI &amp; Quantum Computing) · Jazz Pianist &amp; Improviser<!--<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.-->
 
 profile:
   align: right
@@ -21,8 +21,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a quantum computing researcher with expertise in designing near-term quantum algorithms for simulating electronic structures. My work aims to bridge algorithm design with physical/chemical insight to advance scientific computing on emerging quantum hardware. I’m also expanding into ML/AI to explore new computational inquiries across classical and quantum domains.
+I work at the intersection of ML/AI, quantum computing, and scientific computing. My research background includes variational quantum–classical algorithms, tensor network–inspired circuit design, and electronic structure simulation. I now apply that foundation to modern ML/AI systems and numerical modeling.
 
-Alongside my scientific path, I’m also an active jazz musician. My musical world spans classical, jazz, and global traditions, grounded in improvisation and creative experimentation. Through music, I aim to offer vivid, emotionally resonant experiences that sit at the intersection of structure and spontaneity.
+As a pianist and composer, I work in a space that blends jazz, Brazilian, Western and Indian classical, and contemporary traditions—grounded in improvisation, groove, and cross-cultural dialogue.
 
-By embracing both technical depth and artistic range, I thrive in spaces where disciplines meet—designing algorithms, telling stories, and shaping ideas into tangible impact.
+This site brings together my research, music, writing, and experiments across disciplines.
