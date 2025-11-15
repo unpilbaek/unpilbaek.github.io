@@ -30,10 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-hello-world-세상이여-안녕-wave",
-          title: 'Hello world! 세상이여 안녕! :wave:',
-          description: "",
-          section: "News",},{
+        },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
