@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-vitamin-em-returns-to-piedmont-piedmont-center-for-the-arts-piedmont-7-30-pm",
+        },{id: "post-shyam-kedar-between-remembrance-and-renewal",
+      
+        title: "Shyam Kedar — between Remembrance and Renewal",
+      
+      description: "A 1985 performance of Shyam Kedar by Nikhil Banerjee and Zakir Hussain evokes a mood of nostalgia and hope as the year ends.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/shyam-kedar/";
+        
+      },
+    },{id: "news-vitamin-em-returns-to-piedmont-piedmont-center-for-the-arts-piedmont-7-30-pm",
           title: 'Vitamin Em Returns to Piedmont! Piedmont Center for the Arts, Piedmont — 7:30...',
           description: "",
           section: "News",},{id: "news-vitamin-em-at-pacifica-performances-mildred-owens-concert-hall-pacifica-7-30-pm",
