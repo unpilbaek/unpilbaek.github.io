@@ -38,7 +38,18 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/shyam-kedar/";
+          window.location.href = "/blog/2025/shyam-kedar-copy/";
+        
+      },
+    },{id: "post-agentic-ai-for-automating-scientific-discovery",
+      
+        title: "Agentic AI for Automating Scientific Discovery",
+      
+      description: "A synthesis on how agentic AI can automate parts of scientific discovery, based on a lecture from the Agentic AI MOOC.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/agentic-ai-mooc/";
         
       },
     },{id: "news-vitamin-em-returns-to-piedmont-piedmont-center-for-the-arts-piedmont-7-30-pm",
