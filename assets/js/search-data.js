@@ -38,7 +38,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/shyam-kedar-copy/";
+          window.location.href = "/blog/2025/shyam-kedar/";
         
       },
     },{id: "post-agentic-ai-for-automating-scientific-discovery",
