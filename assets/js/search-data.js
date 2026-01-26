@@ -79,6 +79,12 @@ ninja.data = [{
           section: "News",},{id: "news-vitamin-em-at-throckmorton-theatre-throckmorton-theatre-mill-valley-12-00-pm",
           title: 'Vitamin Em at Throckmorton Theatre  Throckmorton Theatre, Mill Valley — 12:00 PM',
           description: "",
+          section: "News",},{id: "news-vitamin-em-at-the-hillside-club-the-hillside-club-7-30-pm",
+          title: 'Vitamin Em at The Hillside Club  The Hillside Club — 7:30 PM',
+          description: "",
+          section: "News",},{id: "news-ramya-shankar-s-the-human-experience-sfiaf-2026-community-music-center-2-00-pm",
+          title: 'Ramya Shankar’s The Human Experience (SFIAF 2026) Community Music Center — 2:00 PM...',
+          description: "",
           section: "News",},{
         id: 'social-linkedin',
         title: 'LinkedIn',
