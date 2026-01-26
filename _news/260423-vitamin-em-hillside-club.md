@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 - **Vitamin Em at The Hillside Club**  
-  The Hillside Club — [7:30 PM](https://www.hillsideclub.org/bhcconcerts)
+  The Hillside Club, Berkeley — [7:30 PM](https://www.hillsideclub.org/bhcconcerts)
