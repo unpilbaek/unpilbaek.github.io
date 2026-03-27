@@ -21,7 +21,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a physicist and research engineer who likes building bridges between domains—until they become something you can run. My training is in quantum algorithms for electronic structure simulation and in the numerical machinery underneath—linear algebra, variational optimization, and building software that holds up under real experiments. Lately, I've been extending that foundation toward modern ML/AI systems, especially agentic approaches that plan, use tools, and coordinate workflows.
+I'm a research scientist and engineer who likes building bridges across different domains—until they become something you can run.
+My training is in quantum algorithms for electronic structure simulation and in the numerical machinery underneath: linear algebra, variational optimization, and tensor network. Lately, I've been extending that foundation toward modern ML/AI systems, especially agentic approaches that plan, use tools, and coordinate workflows.
 
 In parallel, I'm a pianist and composer. My music sits at the crossroads of jazz, Brazilian, Western and Indian classical, and contemporary traditions—held together by improvisation, groove, and a love of learning new musical languages from the inside.
 
