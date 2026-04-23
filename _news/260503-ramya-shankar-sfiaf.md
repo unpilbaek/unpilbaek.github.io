@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 - **Ramya Shankar's The Human Experience (SFIAF 2026)**  
-  Community Music Center, San Franciso — [2:00 PM](https://www.sfiaf.org/sfiaf2026_ramya-shankar)
+  Community Music Center, San Francisco — [2:00 PM](https://www.sfiaf.org/sfiaf2026_ramya-shankar)
