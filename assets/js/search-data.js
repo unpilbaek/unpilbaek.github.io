@@ -103,6 +103,9 @@ ninja.data = [{
           section: "News",},{id: "news-vitamin-em-returns-to-piedmont-piedmont-center-for-the-arts-piedmont-7-00-pm",
           title: 'Vitamin Em Returns to Piedmont! Piedmont Center for the Arts, Piedmont — 7:00...',
           description: "",
+          section: "News",},{id: "news-bach-to-the-future-new-improvisations-on-the-past-berkeley-early-music-festival-the-dome-center-for-art-music-and-dance-oakland-7-00-pm",
+          title: 'Bach to the Future: New Improvisations on The Past @ Berkeley Early Music...',
+          description: "",
           section: "News",},{
         id: 'social-linkedin',
         title: 'LinkedIn',
