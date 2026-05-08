@@ -89,7 +89,7 @@ ninja.data = [{
           title: 'Ramya Shankar’s The Human Experience Bird &amp;amp;amp; Beckett, San Francisco — 8:30 PM...',
           description: "",
           section: "News",},{id: "news-ramya-shankar-s-the-human-experience-sfiaf-2026-community-music-center-san-francisco-2-00-pm",
-          title: 'Ramya Shankar’s The Human Experience (SFIAF 2026) Community Music Center, San Francisco —...',
+          title: 'Ramya Shankar’s The Human Experience @ SFIAF 2026 Community Music Center, San Francisco...',
           description: "",
           section: "News",},{id: "news-unpil-baek-chris-trinidad-duo-commonwealth-club-san-francisco-5-30-pm",
           title: 'Unpil Baek + Chris Trinidad Duo Commonwealth Club, San Francisco — 5:30 PM...',
