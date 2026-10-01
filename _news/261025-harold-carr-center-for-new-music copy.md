@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-- **Piano + Bass Duo with Harold Carr**  
-  Center for New Music, San Francisco — [2:00 PM](https://centerfornewmusic.com/)
+- **The Lost Tower Tapes: Music of Harold Carr with Unpil Baek**  
+  Center for New Music, San Francisco — [2:00 PM](https://centerfornewmusic.com/event/the-lost-tower-tapes-music-of-h-carr-with-unpil-baek/)
