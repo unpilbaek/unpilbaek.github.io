@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-- **Recording Session for a Sci-Fi Soundtrack**
+- **Recording Session for a Sci-Fi Soundtrack**  
   2200 Studios, Sausalito
