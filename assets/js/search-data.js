@@ -163,6 +163,9 @@ ninja.data = [{
           section: "News",},{id: "news-koh-yamakawa-doodling-worldlines-rootstock-arts-center-oakland-7-00-pm",
           title: 'Koh Yamakawa: Doodling Worldlines  RootStock Arts Center, Oakland — 7:00 PM',
           description: "",
+          section: "News",},{id: "news-corpus-christi-choir-2026-avant-concert-corpus-christi-church-piedmont-4-00-pm",
+          title: 'Corpus Christi Choir 2026 Avant Concert Corpus Christi Church, Piedmont — 4:00 PM...',
+          description: "",
           section: "News",},{
         id: 'social-linkedin',
         title: 'LinkedIn',
