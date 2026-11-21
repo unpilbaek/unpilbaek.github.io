@@ -158,7 +158,7 @@ ninja.data = [{
           title: 'Przemek Winnicki Performs Beethoven to Broadway Corpus Christi Church, Piedmont — 4:00 PM...',
           description: "",
           section: "News",},{id: "news-recording-session-for-a-sci-fi-soundtrack-2200-studios-sausalito",
-          title: 'Recording Session for a Sci-Fi Soundtrack 2200 Studios, Sausalito',
+          title: 'Recording Session for a Sci-Fi Soundtrack  2200 Studios, Sausalito',
           description: "",
           section: "News",},{id: "news-koh-yamakawa-doodling-worldlines-rootstock-arts-center-oakland-7-00-pm",
           title: 'Koh Yamakawa: Doodling Worldlines  RootStock Arts Center, Oakland — 7:00 PM',
