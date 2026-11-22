@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-- **Recording Session - Quantaikotech**  
+- **Recording Session for Quantaikotech**  
   Goody Sound, Oakland
