@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2026-09-12
+inline: true
+related_posts: false
+---
+
+- **Recording Session - Quantaikotech**  
+  Goody Sound, Oakland
